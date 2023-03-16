@@ -1,0 +1,20 @@
+.ContentContactMe{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+    background-color: #1C1D28;
+}
+.ContactMeLeft{
+    margin-top: 5%;
+    width: 60vw;
+    height: 90vh;
+    background-image: url('../../../public/img/WEB/monalisa-2048x1152.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+.ContactMeRight{
+    width: 30vw;    
+}

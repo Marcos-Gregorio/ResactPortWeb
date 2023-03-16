@@ -1,0 +1,30 @@
+.NavContent{
+    background-color: rgba(0, 0, 0, 0);
+    height: 4vh;
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    justify-content: space-between;
+    color: white;
+   
+}
+.NavContent>h1{
+    margin-left: 5%;
+    margin-top: 2.5%;
+}
+.DisplayNav{
+    margin-top: 2.5%;
+    display: flex;
+    margin-right: 5%;
+
+}
+.ListNav{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 20vw;
+    font-size: 1.5rem;
+}
+.BtnNavBar{
+    display: none;
+}

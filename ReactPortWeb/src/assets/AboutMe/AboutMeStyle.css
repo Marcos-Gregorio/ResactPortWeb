@@ -1,0 +1,21 @@
+.ContentAboutMe{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+    background-color: #181111;
+}
+.AboutMeLeft{
+    width: 30vw;
+   
+}
+.AboutMeRight{
+    width: 60vw;
+    height: 90vh;
+    background-image: url('../../../public/img/WEB/VG-2048x1152.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 10%;
+    margin-left: 8%;
+}
