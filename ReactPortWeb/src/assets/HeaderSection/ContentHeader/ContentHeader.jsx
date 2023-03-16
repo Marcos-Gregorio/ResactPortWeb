@@ -8,11 +8,10 @@ export const ContentHeader = () =>{
             <div className='ContentHeaderLeft'>
                 
                 <div className='HeaderText'> 
-                <h1>
+                <h1 class="title" >
                     Nice to meet you!
-                   
                 </h1>
-                <h1>
+                <h1 class="subtitle">
                 I'm Marcos Gregório.
                 </h1>
                 <p>
@@ -20,7 +19,7 @@ export const ContentHeader = () =>{
                 </p>
                 </div>
 
-               
+                <button class="button is-danger">Danger</button>
 
             </div>
             <div className="ContentHeaderRight"></div>
