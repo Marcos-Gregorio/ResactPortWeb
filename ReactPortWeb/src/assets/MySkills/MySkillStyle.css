@@ -3,13 +3,14 @@
     flex-direction: row;
     width: 100vw;
     height: 100vh;
-    background-color: #181111;
+    background-color: #151211;
 }
 .MySkillLeft{
     margin-top: 5%;
     width: 60vw;
     height: 90vh;
-    background-image: url('../../../public/img/WEB/VG02-2048x1152.png');
+    
+    background:  url('../../../public/img/WEB/VG02-2048x1152.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;

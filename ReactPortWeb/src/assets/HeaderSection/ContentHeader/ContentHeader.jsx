@@ -14,8 +14,7 @@ export const ContentHeader = () =>{
                 <h1 class="subtitle">
                 I'm Marcos Gregório.
                 </h1>
-                <p>
-                     Welcome to my web portifolio 2.0,that new update to alter the framework used and desing web.This  project is an epilogue of my journey in this vast universe of programming 
+                <p>Bem-vindo ao PortfólioWeb 2.0. Este projeto é um remake da versão 1.0, na qual procuro utilizar frameworks e CMS mais avançados do que os usados na versão anterior. Nesta versão, estamos utilizando o Vite para configurar o ambiente de desenvolvimento, ReactJS no front-end e apenas o Bulma para auxiliar no CSS. Para aumentar a interatividade do usuário no site, utilizamos JavaScript
                 </p>
                 </div>
 

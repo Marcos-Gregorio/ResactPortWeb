@@ -3,6 +3,7 @@ import './App.css'
 import { AboutMe } from './assets/AboutMe/AboutMe'
 import { MySkill } from './assets/MySkills/MySkills.'
 import { ContactMe } from './assets/ContactMe/ContacMe'
+import { MyProject } from './assets/MyProjects/MyProjects'
 
 function App() {
   
@@ -12,6 +13,7 @@ function App() {
   <main>
     <AboutMe/>
     <MySkill/>
+    <MyProject/>
     <ContactMe/>
   </main>
   </>
