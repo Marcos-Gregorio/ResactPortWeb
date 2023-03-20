@@ -70,20 +70,20 @@ export const MyProject =()=>{
       <div class="modal-body">
         <p>  Eu gostaria de expressar minha sincera gratidão pela qualidade incrível do curso que vocês oferecem. Desde o primeiro dia, fiquei impressionado com a atenção aos detalhes e o compromisso com o ensino de qualidade.
 
-As aulas são extremamente bem estruturadas e fáceis de seguir, e a plataforma é atualizada constantemente, mantendo-nos sempre informados sobre as últimas tendências e tecnologias. Estou muito grato por ter a oportunidade de aprender com vocês.
-Além disso, o suporte oferecido por toda a equipe do OneBitCode tem sido nada menos do que excepcional. Sempre que tive dúvidas ou problemas, fui atendido prontamente e com um nível de profissionalismo que é difícil de encontrar em outros lugares.
-Como estudante, eu me sinto verdadeiramente privilegiado por ter acesso a um curso tão incrível e por ter encontrado um grupo de pessoas tão apaixonadas pelo que fazem. Estou ansioso para continuar minha jornada de aprendizado com vocês e estou confiante de que farei um grande progresso graças ao seu suporte.
-Muito obrigado por tudo o que vocês fazem.
+            As aulas são extremamente bem estruturadas e fáceis de seguir, e a plataforma é atualizada constantemente, mantendo-nos sempre informados sobre as últimas tendências e tecnologias. Estou muito grato por ter a oportunidade de aprender com vocês.
+            Além disso, o suporte oferecido por toda a equipe do OneBitCode tem sido nada menos do que excepcional. Sempre que tive dúvidas ou problemas, fui atendido prontamente e com um nível de profissionalismo que é difícil de encontrar em outros lugares.
+            Como estudante, eu me sinto verdadeiramente privilegiado por ter acesso a um curso tão incrível e por ter encontrado um grupo de pessoas tão apaixonadas pelo que fazem. Estou ansioso para continuar minha jornada de aprendizado com vocês e estou confiante de que farei um grande progresso graças ao seu suporte.
+            Muito obrigado por tudo o que vocês fazem.
 
-</p>
-    
-<p>Atenciosamente,<br/>
-Marcos Gregorio Vieira</p>
+        </p>
+                
+        <p>Atenciosamente,<br/>
+        Marcos Gregorio Vieira</p>
 
         
       </div>
       <div class="modal-footer">
-      
+      <span>Caso você não faça parte,e queira conhecer um pouco do onebitcode clique no botão ao lado.</span>
         <a href="https://onebitcode.com/lp/"><button type="button" class="btn btn-primary">Save changes</button></a>
       
       </div>
